@@ -1,0 +1,34 @@
+
+#container {
+    border: 3px solid BLACK;
+    height: 100vh;
+   padding: 10px;
+   display: flex
+   dis
+}
+
+#sub-container {
+    border: 5px solid BLACK;
+   height: 95vh;
+}
+#text-box {
+    margin:30px;
+    border-bottom: 5px solid black;
+}
+.card {
+    border-top: 5px solid black;
+   
+}
+ img { 
+    height: 400px;
+    width: 100px;
+    border-bottom: 5px solid black;
+
+} 
+
+h1 {
+text-align: center;
+border-top: 5px solid black;
+margin:30px;
+
+}
